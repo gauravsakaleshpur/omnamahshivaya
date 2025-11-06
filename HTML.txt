@@ -1,0 +1,39 @@
+HTML
+HyperTextMarkupLanguage
+It is only language used to build browser
+It usually deals with tags and attributes where tags store the data and attributes are some properties
+
+
+Structure of an html code:
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    
+</head>
+<body>
+    elnin9o
+</body>
+</html>
+
+
+TAGs
+There are three types 
+Opening
+Closing
+Self closing
+Data always in between 
+<h1>gaurav</h1>
+Self closing are tags are used to do single work and it does not need any data in between or afterwards 
+<br/>
+
+
+ATTRIBUTES
+It is a function it will always specify how the data should always be specified in our website
+
+TEXT FORMATTING TAGS
+HEADING TAGS
+Used to display the highlighted and bold text it has six 
+It has six corresponding tags h1 to h6 
